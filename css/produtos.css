@@ -168,6 +168,6 @@
     margin: 8px 0;
 }
 
-.data_email {
+.budget_data span:nth-of-type(even) {
 margin-bottom: 40px;
 }
